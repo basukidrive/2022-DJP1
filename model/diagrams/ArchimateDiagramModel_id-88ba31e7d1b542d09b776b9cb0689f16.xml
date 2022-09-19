@@ -4,16 +4,6 @@
     name="Default View"
     id="id-88ba31e7d1b542d09b776b9cb0689f16">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6925d41cc6ca4c60b78f0ca205213683"
-      textAlignment="1">
-    <bounds
-        x="44"
-        y="30"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f68ffd78c4a24a17bd348f83f3e1f7d0">
     <bounds
@@ -24,17 +14,5 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-9cc59e693e4c43428e5251dc15c2fa3c.xml#id-9cc59e693e4c43428e5251dc15c2fa3c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5709c0655eec48e1b39a282c3deb6018">
-    <bounds
-        x="144"
-        y="303"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-972d84a4175b425eb0a0effad93fb278.xml#id-972d84a4175b425eb0a0effad93fb278"/>
   </children>
 </archimate:ArchimateDiagramModel>
