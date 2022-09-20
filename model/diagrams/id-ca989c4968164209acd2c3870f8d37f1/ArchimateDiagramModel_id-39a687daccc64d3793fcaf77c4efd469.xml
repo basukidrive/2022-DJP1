@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2cb0c8b72ba64e9cb94cfc87e20fa6b7">
     <bounds
-        x="144"
+        x="120"
         y="192"
         width="120"
         height="55"/>
@@ -19,8 +19,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5f890e0b87cc4ad49fba603f1498d816">
     <bounds
-        x="156"
-        y="384"
+        x="468"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -69,10 +69,10 @@
           href="CompositionRelationship_id-e0f54d82dca048acb619426bc4563a24.xml#id-e0f54d82dca048acb619426bc4563a24"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="131"
+        x="360"
+        y="48"
         width="400"
-        height="446"/>
+        height="397"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-111e8a8f3f9d488ba34ced7117c6d429"
