@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Status Upload Dokumen"
+    id="id-a9e7892acfc04c42b1e4c203df9e6b3c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-98b0bb3f1be54aa8a35c11d6637a914a.xml#id-98b0bb3f1be54aa8a35c11d6637a914a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ff94088751554784b36108bd60b7c423.xml#id-ff94088751554784b36108bd60b7c423"/>
+</archimate:FlowRelationship>
