@@ -1,14 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lingkup Data/Enterprise Data Model"
+    name="Enterprise Data Model"
     id="id-a47e82cfd0b6499d86c635f63d258622">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3e9b083f67d14921be96ab21c8d60193">
     <bounds
-        x="139"
-        y="73"
+        x="24"
+        y="72"
         width="169"
         height="253"/>
     <children
@@ -17,7 +17,7 @@
         textPosition="1">
       <bounds
           x="24"
-          y="108"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -30,7 +30,7 @@
         textPosition="1">
       <bounds
           x="24"
-          y="36"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
@@ -45,8 +45,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d8d912a3432446b9790682cf7e64954">
     <bounds
-        x="367"
-        y="73"
+        x="252"
+        y="72"
         width="313"
         height="253"/>
     <children
@@ -130,5 +130,43 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-22f872e816554df2a94621684fc296e8.xml#id-22f872e816554df2a94621684fc296e8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c8165129abe642f5b6bdc395f047ad9b">
+    <bounds
+        x="612"
+        y="72"
+        width="169"
+        height="253"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c239150749dd422a828c9f31cd756652"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-c8ae60edaa0a4f4387679a850e5738d1.xml#id-c8ae60edaa0a4f4387679a850e5738d1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e60053670c984cc99758764ab89a710d"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-7ffa544801724ae89ab41fc9790ffbbc.xml#id-7ffa544801724ae89ab41fc9790ffbbc"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-273e5e5afe954839865c3f16d3370861.xml#id-273e5e5afe954839865c3f16d3370861"/>
   </children>
 </archimate:ArchimateDiagramModel>

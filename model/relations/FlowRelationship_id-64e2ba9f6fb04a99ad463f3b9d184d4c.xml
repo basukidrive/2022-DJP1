@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Perekaman SPT"
+    id="id-64e2ba9f6fb04a99ad463f3b9d184d4c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3d021a37bde245f194bd58502beabc4e.xml#id-3d021a37bde245f194bd58502beabc4e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-916ea9e211cd4687a66aa65d12e069d8.xml#id-916ea9e211cd4687a66aa65d12e069d8"/>
+</archimate:FlowRelationship>

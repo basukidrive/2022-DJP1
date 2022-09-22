@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Tanda Terima"
+    id="id-b54ad05f5cc441a9a2cc4be5c167578c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cc70eafc347c4a809400aefebc64bba7.xml#id-cc70eafc347c4a809400aefebc64bba7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3d021a37bde245f194bd58502beabc4e.xml#id-3d021a37bde245f194bd58502beabc4e"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Billing"
+    id="id-04d9e1195dd24c998b78f052040594f0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-538eee278710474da2c558dee36088d7.xml#id-538eee278710474da2c558dee36088d7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cc70eafc347c4a809400aefebc64bba7.xml#id-cc70eafc347c4a809400aefebc64bba7"/>
+</archimate:FlowRelationship>

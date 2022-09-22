@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Perekaman SPT"
     id="id-dd785e5b8dd94b938d8d77dc2d7c3354">
   <source
       xsi:type="archimate:ApplicationComponent"

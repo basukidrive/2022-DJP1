@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Status Loader SPT"
+    id="id-9d51db1d1af048429835aef771a62011">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-916ea9e211cd4687a66aa65d12e069d8.xml#id-916ea9e211cd4687a66aa65d12e069d8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3d021a37bde245f194bd58502beabc4e.xml#id-3d021a37bde245f194bd58502beabc4e"/>
+</archimate:FlowRelationship>

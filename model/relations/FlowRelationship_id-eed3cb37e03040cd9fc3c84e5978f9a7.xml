@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Billing tervalidasi"
+    name="Data Billing"
     id="id-eed3cb37e03040cd9fc3c84e5978f9a7">
   <source
       xsi:type="archimate:ApplicationComponent"
