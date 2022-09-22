@@ -1,4 +1,41 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Catalog Dashboard"
-    id="id-c8bf943be8404277b8932a86fce184b6"/>
+    name="2. Catalog Dashboard"
+    id="id-c8bf943be8404277b8932a86fce184b6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7f2d21243f40489a9dff197f69c7d5e3"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5553f1d5c5b94712b642e809494841a7"
+        source="id-7f2d21243f40489a9dff197f69c7d5e3"
+        target="id-b9de69cb67cb4d68824169bf1d1b9ee9">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-bf94e420799a4e0282c3634a1483b3e8.xml#id-bf94e420799a4e0282c3634a1483b3e8"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="48"
+        width="361"
+        height="169"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b9de69cb67cb4d68824169bf1d1b9ee9"
+        targetConnections="id-5553f1d5c5b94712b642e809494841a7">
+      <bounds
+          x="36"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-599369f92de14574a3b762161c06c2bf.xml#id-599369f92de14574a3b762161c06c2bf"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-1c4e3dbc522e46f596b0d0bfc8575451.xml#id-1c4e3dbc522e46f596b0d0bfc8575451"/>
+  </children>
+</archimate:ArchimateDiagramModel>
