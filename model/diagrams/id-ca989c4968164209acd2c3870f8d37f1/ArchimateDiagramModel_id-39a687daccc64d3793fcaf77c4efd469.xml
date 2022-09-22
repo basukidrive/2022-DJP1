@@ -62,8 +62,8 @@
     <bounds
         x="360"
         y="48"
-        width="400"
-        height="397"/>
+        width="397"
+        height="226"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-111e8a8f3f9d488ba34ced7117c6d429"

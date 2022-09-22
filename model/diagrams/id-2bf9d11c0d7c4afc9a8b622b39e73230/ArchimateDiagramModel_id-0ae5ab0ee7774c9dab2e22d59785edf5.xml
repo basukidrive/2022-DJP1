@@ -171,10 +171,10 @@
         id="id-21d95751ebc44b229b4a657a764de8d5"
         targetConnections="id-654cef00166d4f558f07ac8f2e5bc9e4">
       <bounds
-          x="33"
+          x="24"
           y="120"
-          width="120"
-          height="55"/>
+          width="138"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Principle"
           href="Principle_id-74852dfd45234f97979da70e82bf8dd6.xml#id-74852dfd45234f97979da70e82bf8dd6"/>

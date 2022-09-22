@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Pembayaran Pajak"
+    id="id-0fc0f95e4b7642daa98b28dcaa2eb452">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-709bcd2e8dc54acfaec3b75d42f9489a.xml#id-709bcd2e8dc54acfaec3b75d42f9489a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-de3732a5960e401c808fb2b10281cb88.xml#id-de3732a5960e401c808fb2b10281cb88"/>
+</archimate:FlowRelationship>

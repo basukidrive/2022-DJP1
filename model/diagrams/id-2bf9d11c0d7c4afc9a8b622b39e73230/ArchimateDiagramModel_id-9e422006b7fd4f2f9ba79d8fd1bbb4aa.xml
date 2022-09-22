@@ -14,12 +14,7 @@
         source="id-93bca619daac4cc991ae598bcba9d638"
         target="id-d39eb6cea25c470e92a7d4c456728cee">
       <bendpoints
-          startX="2"
-          startY="-51"
-          endX="-108"
-          endY="45"/>
-      <bendpoints
-          startX="110"
+          startX="-10"
           startY="-51"
           endY="45"/>
       <archimateRelationship
@@ -32,9 +27,9 @@
         source="id-93bca619daac4cc991ae598bcba9d638"
         target="id-7a82c5b7fd0842579908412194c2d902">
       <bendpoints
-          startX="2"
+          startX="-10"
           startY="-51"
-          endX="-339"
+          endX="-434"
           endY="45"/>
       <bendpoints
           startX="338"
@@ -75,7 +70,7 @@
           endX="156"
           endY="45"/>
       <bendpoints
-          startX="-315"
+          startX="-435"
           startY="-51"
           endY="45"/>
       <archimateRelationship
@@ -131,7 +126,7 @@
           endX="48"
           endY="45"/>
       <bendpoints
-          startX="-112"
+          startX="-232"
           startY="-51"
           endY="45"/>
       <archimateRelationship
@@ -204,7 +199,7 @@
           href="AssociationRelationship_id-058b4f456f994a719fd74c2387156db1.xml#id-058b4f456f994a719fd74c2387156db1"/>
     </sourceConnections>
     <bounds
-        x="216"
+        x="96"
         y="120"
         width="120"
         height="55"/>
@@ -481,12 +476,25 @@
           href="AssociationRelationship_id-080caef3099542eca9771ecfb235dced.xml#id-080caef3099542eca9771ecfb235dced"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="527"
         y="120"
         width="127"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-7dadfd367f614a3382922cb5ad0e643f.xml#id-7dadfd367f614a3382922cb5ad0e643f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0ba4d6fcdfa94b13900a7a485eca9e6d"
+      textPosition="1">
+    <bounds
+        x="319"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-f3b83594782245c7849b7fdeb68dab33.xml#id-f3b83594782245c7849b7fdeb68dab33"/>
   </children>
 </archimate:ArchimateDiagramModel>
