@@ -179,6 +179,15 @@
         targetConnections="id-34a4315cf8c140aab8d3c94bf2b37794">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c97dc42b64654d6b8fcc7bc058c85a66"
+          source="id-272985baf84a4d46a9736751d4a32382"
+          target="id-b1ec4339ace24563a747e8b690305a17">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-77c65d35cdd64b7dbbbfd7b4b1dc3ae9.xml#id-77c65d35cdd64b7dbbbfd7b4b1dc3ae9"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c8dc78998ed145579180d2a1081d9b8c"
           source="id-272985baf84a4d46a9736751d4a32382"
           target="id-2a85afe004ba41c6bd747de190a59578">
@@ -190,15 +199,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-300d9ebe5c324525b2aaa33a53f70625.xml#id-300d9ebe5c324525b2aaa33a53f70625"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c97dc42b64654d6b8fcc7bc058c85a66"
-          source="id-272985baf84a4d46a9736751d4a32382"
-          target="id-b1ec4339ace24563a747e8b690305a17">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-77c65d35cdd64b7dbbbfd7b4b1dc3ae9.xml#id-77c65d35cdd64b7dbbbfd7b4b1dc3ae9"/>
       </sourceConnections>
       <bounds
           x="300"
@@ -278,7 +278,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2a85afe004ba41c6bd747de190a59578"
-      targetConnections="id-c8dc78998ed145579180d2a1081d9b8c id-70353a5efcf5446ea2a13c9b689d0653 id-1b031caa735f44ec9d834bae3230ffa5 id-b6430bcb732340e1bcacae87299bfdff id-4466eb8718594241a8553c8b8cd94c18 id-b21abf31d5b24c8a9c361c93ec1bc4d8">
+      targetConnections="id-70353a5efcf5446ea2a13c9b689d0653 id-1b031caa735f44ec9d834bae3230ffa5 id-b6430bcb732340e1bcacae87299bfdff id-4466eb8718594241a8553c8b8cd94c18 id-b21abf31d5b24c8a9c361c93ec1bc4d8 id-c8dc78998ed145579180d2a1081d9b8c">
     <bounds
         x="284"
         y="233"

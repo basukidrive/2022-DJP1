@@ -104,7 +104,7 @@
           x="24"
           y="36"
           width="168"
-          height="217"/>
+          height="301"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-774915663f7c4e8e84160249e00ba48d">
@@ -128,6 +128,18 @@
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_id-8febdc758eae4f87848cc24540c0dfd4.xml#id-8febdc758eae4f87848cc24540c0dfd4"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-5a71bda3e4594fd4a33e06dba1aea4d4">
+        <bounds
+            x="24"
+            y="204"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-73a0a152c3ec4effa2e8ec7209b55be4.xml#id-73a0a152c3ec4effa2e8ec7209b55be4"/>
       </children>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
@@ -175,7 +187,7 @@
         id="id-30c2df75afe74fdaaef44f859dde29f7"
         targetConnections="id-141494af27ce407c90cc499d5a75c938">
       <bounds
-          x="132"
+          x="228"
           y="264"
           width="168"
           height="121"/>
